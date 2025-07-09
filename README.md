@@ -1,4 +1,4 @@
-# comfyui-SGtext
+# comfyui-SGtextsaver
 
 这是一个ComfyUI插件，用于保存文本到指定路径的文件中。
 
