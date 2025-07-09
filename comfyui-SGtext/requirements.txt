@@ -1,2 +1,0 @@
-# comfyui-SGtext requirements
-# 本项目暂时没有外部依赖
